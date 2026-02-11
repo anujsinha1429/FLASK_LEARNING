@@ -1,0 +1,8 @@
+__pycache__
+*.pyc
+venv/
+.env
+flskenv/
+day2env/
+day3env/
+.DS_Store
