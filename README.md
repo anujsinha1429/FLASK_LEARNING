@@ -14,10 +14,16 @@ I am committed to improving my skills daily by building projects and understandi
 * Created first Flask app
 * Understood routes and templates
 
-### ✅ Day 2 – 
+### ✅ Day 2 – Templates & HTML
 * created login page
 * understood redirect and url_for
 * redirect to welcome page when u are valid user 
+
+### ✅ Day 3 - forms & data handling
+* learned how forms work
+* learned user input 
+* built small practice apps 
+* bulit project 
 ---
 
 ## 🎯 Goal
