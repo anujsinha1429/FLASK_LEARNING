@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   
+    <title>{% block title %} Mt website {% endblock %}</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #35424a;
+            color: #ffffff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        footer {
+            background-color: #35424a;
+            color: #ffffff;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h2> My site </h2>
+        <nav>
+            <a href="/"> Home </a>
+            <a href="/about5"> about </a>
+        </nav>
+    </header>
+    {% block content %} 
+    {% endblock %}
+    
+<footer>
+    <p> &copy; 2026 My Website </p>
+</footer>    
+</body>
+</html>
