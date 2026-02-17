@@ -19,11 +19,25 @@ I am committed to improving my skills daily by building projects and understandi
 * understood redirect and url_for
 * redirect to welcome page when u are valid user 
 
-### ✅ Day 3 - forms & data handling
-* learned how forms work
-* learned user input 
-* built small practice apps 
-* bulit project 
+### ✅ Day 3 - Jinja2 templates
+* learned jinja2 templating in flask 
+* used render_template() to load html pages
+* used for loop and if-else conditions
+* implemented template inheritance using base.html
+
+### ✅ Day 4 - Basic website & routing 
+* created a simple website using Flask 
+* Made two routes : Home and About page 
+* connected routes with html templates 
+* used jinja2 to render pages 
+* practiced project folder structure( template folder )
+
+### ✅ Day 5 - FLASK-WTF (OOP Forms)
+* Learned Flask-WTF for creating forms using Python classes
+* Created form using `FlaskForm`
+* Used fields like `StringField`, `PasswordField`, `SubmitField`
+* Applied validators (DataRequired, Length, Email)
+* Rendered form in HTML using Jinja2
 ---
 
 ## 🎯 Goal
