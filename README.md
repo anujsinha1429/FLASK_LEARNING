@@ -51,8 +51,6 @@ My objective is to become a strong backend developer by focusing on consistency,
 * Templates & Jinja
 * Forms handling
 * User authentication
-* Database integration
-* Building real-world Flask projects
 
 ---
 
